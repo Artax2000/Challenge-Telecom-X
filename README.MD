@@ -44,6 +44,7 @@ Los análisis revelaron varios patrones importantes en la evasión de clientes:
 *  Cantidad de Servicios Contratados (num_servicios): Existe una correlación negativa muy débil (-0.067), indicando que los clientes con un menor número de servicios contratados son marginalmente más propensos a la evasión. Esto sugiere una menor "adherencia" a la empresa.
 
 *  Demografía:  No se encontró una correlación fuerte entre el género o la edad (>65 años) y la propensión a la evasión dentro de los clientes que cancelaron.
+        ![Ingreso totales por tienda](imagen/mayores-65.png)
 
 ### 🚀 Recomendaciones Estratégicas
 
